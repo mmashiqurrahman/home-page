@@ -1,0 +1,1 @@
+document.getElementById('hotfix').innerHTML = 'the issue has been resolved.';
