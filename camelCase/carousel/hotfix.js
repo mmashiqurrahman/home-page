@@ -1,1 +1,1 @@
-document.getElementById('hotfix').innerHTML = 'the issue has been resolved.';
+document.getElementById('hotfix').innerHTML = 'The issue has been resolved. Move to the next stage.';
