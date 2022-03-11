@@ -1,3 +1,7 @@
 .special {
     padding: auto;
 }
+
+.notSpecial {
+    padding: 0px;
+}
